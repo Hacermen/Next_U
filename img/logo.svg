@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="144"
+   height="59"
+   viewBox="0 0 144 59"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="logo.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.6654652"
+     inkscape:cx="66.678085"
+     inkscape:cy="33.279631"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs40">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="37.302132"
+       x2="121.86656"
+       y1="56.183052"
+       x1="22.772278"
+       id="linearGradient49"
+       xlink:href="#linearGradient47"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient47"
+       inkscape:collect="always">
+      <stop
+         id="stop43"
+         offset="0"
+         style="stop-color:#6c5353;stop-opacity:1" />
+      <stop
+         id="stop45"
+         offset="1"
+         style="stop-color:#e3dbdb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1"
+     transform="translate(0,-1021)">
+    <g
+       id="layer1-8"
+       inkscape:label="Capa 1"
+       transform="matrix(3.7795276,0,0,3.7795276,-12.716985,996.60604)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path21"
+         d="M 3.5752006,6.7259583 7.1869516,20.386615 22.665881,21.956806 38.316826,20.229595 41.412591,6.7259583 Z"
+         style="fill:none;stroke:#000000;stroke-width:0.16597658px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="scale(0.26458333)"
+         inkscape:connector-curvature="0"
+         id="path41"
+         d="M 54.6898,79.186142 C 40.388003,77.701473 28.436111,76.236325 28.130042,75.930255 27.660629,75.460841 14.851485,28.362839 14.851485,27.106263 c 0,-0.235489 31.681332,-0.428162 70.40296,-0.428162 55.890945,0 70.314595,0.255109 69.974255,1.237624 -0.23579,0.680693 -2.81269,11.729046 -5.72645,24.551896 l -5.29775,23.314273 -29.28047,3.193244 C 98.819774,80.731422 84.529703,82.104741 83.168317,82.02696 81.806931,81.949179 68.991598,80.670811 54.6898,79.186142 Z"
+         style="fill:url(#linearGradient49);fill-opacity:1;stroke-width:0.99009901" />
+      <text
+         id="text53"
+         y="17.740778"
+         x="7.1869516"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face Bold';fill:#000000;stroke-width:0.26458332"
+           y="17.740778"
+           x="7.1869516"
+           id="tspan51"
+           sodipodi:role="line">H C M</tspan></text>
+    </g>
+  </g>
+</svg>
