@@ -30,7 +30,6 @@
                               <h3><li>Lugar de Nacimiento: Barranquilla, Colombia</li></h3>
                         </ul>
                   </article>
-                  <br>
                   <article>
                         <h2>Educación</h2>
                         <table border="1" >
@@ -64,6 +63,49 @@
                               </tbody>
                         </table>
                   </article>
+                  <br>
+                  <form autocomplete="on" name="estudiosrealizados">
+                        <fieldset>
+                          <legend><h2>Agregar Estudios</h2></legend>
+                              <p>
+                                    <label for="anio"><strong>Año: </strong></label>
+                                          <select name="anio">
+                                                <option>2003</option>
+                                                <option>2004</option>
+                                                <option>2005</option>
+                                                <option>2006</option>
+                                                <option>2007</option>
+                                                <option>2008</option>
+                                                <option>2009</option>
+                                                <option>2010</option>
+                                                <option>2011</option>
+                                                <option>2012</option>
+                                                <option>2013</option>
+                                                <option>2014</option>
+                                                <option>2015</option>
+                                                <option>2016</option>
+                                                <option>2017</option>
+                                          </select>
+                                          <br>
+                              </p>
+                              <p>
+                                    <label for="instituto"><strong>Institución: </strong></label>
+                                    <input type="text" name="instituto" size="30" placeholder="Ej: Next University" required>
+                              </p>
+                              <p>
+                                    <label for="ciudad"><strong>Lugar: </strong></label>
+                                    <textarea name="ciudad" rows="2" cols="50"></textarea>
+                              </p>
+                              <p>
+                                    <label for="culmino"><strong>¿Culminó? </strong></label>
+                                    <input type="radio" name="culmino" value="si">Si
+                                    <input type="radio" name="culmino" value="no">No
+                              </p>
+                              <p>
+                                    <input type="submit" name="aceptar" value="Ennviar">
+                              </p>
+                        </fieldset>
+                  </form>
             </section>
             <br>
       </body>
