@@ -31,7 +31,7 @@
                   </article>
                   <article>
                         <h2>Educación</h2>
-                        <table border="1" >
+                        <table border="1" id="tablaestudios">
                               <thead>
                                     <tr>
                                           <th>Año</th>
@@ -63,9 +63,9 @@
                         </table>
                   </article>
                   <br>
-                  <form autocomplete="on" name="estudiosrealizados">
-                        <fieldset>
-                          <legend><h2>Agregar Estudios</h2></legend>
+                  <hr>
+                  <h2>Agregar Estudios</h2>
+                  <form autocomplete="on" name="agregarestudios">
                               <p>
                                     <label for="anio"><strong>Año: </strong></label>
                                           <select name="anio">
@@ -89,21 +89,20 @@
                               </p>
                               <p>
                                     <label for="instituto"><strong>Institución: </strong></label>
-                                    <input type="text" name="instituto" size="30" placeholder="Ej: Next University" required>
+                                    <input type="text" id="instituto" size="30" placeholder="Ej: Next University" required>
                               </p>
                               <p>
                                     <label for="ciudad"><strong>Lugar: </strong></label>
-                                    <textarea name="ciudad" rows="2" cols="50"></textarea>
+                                    <textarea id="ciudad" rows="2" cols="50"></textarea>
                               </p>
                               <p>
                                     <label for="culmino"><strong>¿Culminó? </strong></label>
-                                    <input type="radio" name="culmino" value="si">Si
-                                    <input type="radio" name="culmino" value="no">No
+                                    <input type="radio" id="culmino" value="si">Si
+                                    <input type="radio" id="culmino" value="no">No
                               </p>
                               <p>
-                                    <input type="submit" name="aceptar" value="Ennviar">
+                                    <input type="submit" id="enviar" name="aceptar" value="Ennviar">
                               </p>
-                        </fieldset>
                   </form>
             </section>
             <br>
